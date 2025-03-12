@@ -1,2 +1,2 @@
-# Exercicios em Python
- Lista de exercicios feitos em python
+# Exercícios em Python
+ Passos iniciais: Lista de exercícios feitos em Python.
