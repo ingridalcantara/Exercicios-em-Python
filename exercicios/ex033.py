@@ -3,4 +3,3 @@
 n1 = input('Digite o primeiro número: ')
 n2 = input('Digite o segundo número: ')
 n3 = input('Digite o terceiro número: ')
-
