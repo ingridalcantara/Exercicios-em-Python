@@ -6,7 +6,7 @@ salario = float(input('Qual seu salário? R$'))
 tempo = float(input('Em quantos anos você vai pagar? '))
 
 prestacao = valor / (tempo*12)
-sal_exc = salario + (30/100 * salario)
+sal_exc = (30/100 * salario)
 
 print('O valor da prestação será R${:.2f}' .format(prestacao))
 
